@@ -20,7 +20,6 @@ Supervisors: Prof. Dario Gerace, Prof. Daniele Bajoni
 **Università degli Studi di Pavia (2016-2019)**
 
 Thesis: Machine learning techniques applied to the quantum many-body problem
-
 Supervisor: Prof. Dario Gerace
 Co-supervisor: Francesco Tacchino (Research Staff Member at IBM Research – Zurich)
 
