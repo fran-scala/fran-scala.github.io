@@ -2,8 +2,7 @@
   <a href="" target="_blank"><img src="https://github.com/fran-scala/fran-scala.github.io/blob/3817adb73bbfecc219b42aae2da5b20c447ba0c7/f.scala_1%20copia.png" width="20%"/> </a>
 </p>
 
-# About me eeeee
-
+# About me
 I'm 24 y.o. and I'm a PhD student in Quantum Machine Learning at Università degli Studi di Pavia, Italy. My hometown is Cremona, a little city in the north of Italy (not far from Milan). I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling.
 
 ## At the moment
@@ -11,14 +10,16 @@ I'm a first-year PhD student in Quantum Machine Learning at University of Pavia,
 
 ## Education
 
-### Master degree in Physics of Quantum Technologies - Università degli Studi di Pavia (2019-2021)
+### Master degree in Physics of Quantum Technologies 
+### Università degli Studi di Pavia (2019-2021)
 
 My course of study has focused on quantum computing, quantum information and hardware implementation of these principles through quantum technologies. I also had the opportunity to deepen the field of machine learning, deep learning and artificial intelligence. My master thesis that was focused on the application of quantum machine learning techniques in order to detect peculiar quantum features. 
 
 Thesis: Witnessing Entanglement by Quantum Neural Networks
 Supervisors: Prof. Dario Gerace, Prof. Daniele Bajoni
 
-### Bachelor degree in Physics - Università degli Studi di Pavia (2016-2019)
+### Bachelor degree in Physics 
+### Università degli Studi di Pavia (2016-2019)
 Thesis: Machine learning techniques applied to the quantum many-body problem
 Supervisor: Prof. Dario Gerace
 Co-supervisor: Francesco Tacchino (Research Staff Member at IBM Research – Zurich)
