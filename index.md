@@ -1,4 +1,4 @@
-![pro pic](https://github.com/fran-scala/fran-scala.github.io/blob/3817adb73bbfecc219b42aae2da5b20c447ba0c7/f.scala_1%20copia.png)
+![pro pic](https://github.com/fran-scala/fran-scala.github.io/blob/809ab027cb6f9a06fea79081d79c5b673711aeab/Figure_4.png)
 
 # About me
 I'm 24 y.o. and I'm a PhD student in Quantum Machine Learning at Università degli Studi di Pavia, Italy. My hometown is Cremona, a little city in the north of Italy (not far from Milan). I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling.
