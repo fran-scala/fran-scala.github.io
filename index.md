@@ -1,5 +1,5 @@
 <p>
-  <a href="" target="_blank"><img src=f.scala_1.jpg width="60%"/> </a>
+  <a href="" target="_blank"><img src=f.scala_1.jpg width="20%"/> </a>
 </p>
 
 # About me
