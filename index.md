@@ -1,5 +1,7 @@
-![pro pic](https://github.com/fran-scala/fran-scala.github.io/blob/3029a94a65072b3019849623d6865aae16fe6130/f_scala_1%20copia.png?raw=true)
-
+![pro pic]()
+<p>
+  <a href="" target="_blank"><img src="https://github.com/fran-scala/fran-scala.github.io/blob/3029a94a65072b3019849623d6865aae16fe6130/f_scala_1%20copia.png?raw=true" width="20%"/> </a>
+</p>
 # About me
 I'm 24 y.o. and I'm a PhD student in Quantum Machine Learning at Università degli Studi di Pavia, Italy. My hometown is Cremona, a little city in the north of Italy (not far from Milan). I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling.
 
@@ -13,14 +15,14 @@ I'm a first-year PhD student in Quantum Machine Learning at University of Pavia,
 
 My course of study has focused on quantum computing, quantum information and hardware implementation of these principles through quantum technologies. I also had the opportunity to deepen the field of machine learning, deep learning and artificial intelligence. My master thesis that was focused on the application of quantum machine learning techniques in order to detect peculiar quantum features. 
 
-Thesis: Witnessing Entanglement by Quantum Neural Networks
+Thesis: Witnessing Entanglement by Quantum Neural Networks   
 Supervisors: Prof. Dario Gerace, Prof. Daniele Bajoni
 
 ### Bachelor degree in Physics 
 **Università degli Studi di Pavia (2016-2019)**
 
-Thesis: Machine learning techniques applied to the quantum many-body problem
-Supervisor: Prof. Dario Gerace
+Thesis: Machine learning techniques applied to the quantum many-body problem   
+Supervisor: Prof. Dario Gerace   
 Co-supervisor: Francesco Tacchino (Research Staff Member at IBM Research – Zurich)
 
 ## College life - Almo Collegio Borromeo
