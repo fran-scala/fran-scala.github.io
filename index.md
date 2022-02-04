@@ -2,12 +2,12 @@
 
 I'm 24 y.o. and I'm a PhD student in Quantum Machine Learning at Università degli Studi di Pavia, Italy. 
 
-# At the moment
+## At the moment
 I'm a first-year PhD student in Quantum Machine Learning at University of Pavia, interested in classical and quantum machine learning and their applications in different fields. My research project aims to compare the performances of quantum machine learning algorithms on different real quantum processing units. My master thesis that was focused on the application of quantum machine learning techniques in order to detect peculiar quantum features. 
 
-# Education
+## Education
 
-## Master degree in Physics of Quantum Technologies - Università degli Studi di Pavia (2019-2021)
+### Master degree in Physics of Quantum Technologies - Università degli Studi di Pavia (2019-2021)
 
 My course of study has focused on quantum computing, quantum information and hardware implementation of these principles through quantum technologies. I also had the opportunity to deepen the field of machine learning, deep learning and artificial intelligence.
 
