@@ -1,6 +1,6 @@
-# Francesco Scala bomba
+# About me
 
-# BIMBA
+I'm 24 y.o. and I'm a PhD student in Quantum Machine Learning at Università degli Studi di Pavia, Italy.
 
 You can use the [editor on GitHub](https://github.com/fran-scala/francescoscala.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
