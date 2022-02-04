@@ -8,6 +8,11 @@ I'm 24 y.o. and I'm a PhD student in Quantum Machine Learning at Università deg
 ## At the moment
 I'm a first-year PhD student in Quantum Machine Learning at University of Pavia, interested in classical and quantum machine learning and their applications in different fields. My research project aims to compare the performances of quantum machine learning algorithms on different real quantum processing units. 
 
+## Recent achievements
+
+- IBM developer certification
+- 2nd place at MIT iQuHack Microsoft/IonQ challenge [QuHackJack Casinos] ()
+
 ## Education
 
 ### Master degree in Physics of Quantum Technologies 
