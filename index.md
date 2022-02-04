@@ -1,7 +1,4 @@
-<p>
-  <a href="" target="_blank"><img src=f.scala_1.jpg width="20%"/> </a>
-</p>
-
+![f.scala_1.jpg](https://github.com/fran-scala/fran-scala.github.io/blob/55f61f5573e4531e96c538693dc1bf4d844ede0d/f.scala_1.jpg)
 # About me
 
 I'm 24 y.o. and I'm a PhD student in Quantum Machine Learning at Università degli Studi di Pavia, Italy. My hometown is Cremona, a little city in the north of Italy (not far from Milan). I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling.
