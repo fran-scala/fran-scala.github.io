@@ -22,9 +22,9 @@ Co-supervisor: Francesco Tacchino (Research Staff Member at IBM Research – Zur
 ## College life - Almo Collegio Borromeo
 
 Almo Collegio Borromeo, founded in 1561 by Carlo Borromeo, is a meritocratic university residence and is the oldest such institution remaining in operation in Italy. It is also a _highly qualified Cultural Institute_ by the Ministry of Universities and Research.
-In order to become an \textit{alumno} you need to pass an admission test. The strict requirements to keep the status of student of the college are based on academic achievements (minimum GPA of 27/30) and extracurricular activities (at least 70 hours per year).
+In order to become an _alumno_ you need to pass an admission test. The strict requirements to keep the status of student of the college are based on academic achievements (minimum GPA of 27/30) and extracurricular activities (at least 70 hours per year).
 
-I was _alumno_ from 2016 to 2021. Apart from the academic requirements and the educational opportunities the this college provides, the are a lot of informal activities organized by the students for the students. In addition, in Pavia there other colleges that together orgazine tournaments and events. For example, I was in the football team and one of the main organizers of our college's party "Festa di Primavera".
+I have been _alumno_ from 2016 to 2021. Apart from the academic requirements and the educational opportunities the this college provides, the are a lot of informal activities organized by the students for the students. In addition, in Pavia there other colleges that together orgazine tournaments and events. For example, I was in the football team and one of the main organizers of our college's party "Festa di Primavera".
 
 All this things allowed me to form a strong bond of friendship with some of my college mates and made living at Almo Collegio Borromeo one of the best experiences of my life. 
 
