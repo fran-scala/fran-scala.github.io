@@ -44,8 +44,9 @@ All this things allowed me to form a strong bond of friendship with some of my c
 
 I've been working occasionally since 2015 as steward at local fairs , as waiter in disco-clubs and catering operator in weddings and various events.
 
-## Hobby
-Apart from the academic side, I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling.
+## Hobbies and free time
+Apart from the academic side, I'm an outgoing and active person. In my free time I really enjoy playing sports, gardening, traveling and listening to podcasts. At the moment, I'm follwing a Calisthenics course and playing in my old college football team.  
+Recently I've also started programming outside working hours, attending extra courses and partecipating in hackatons and challenges.
 
 ### Markdown
 
