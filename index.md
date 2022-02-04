@@ -1,6 +1,12 @@
 # About me
 
-I'm 24 y.o. and I'm a PhD student in Quantum Machine Learning at Università degli Studi di Pavia, Italy.
+I'm 24 y.o. and I'm a PhD student in Quantum Machine Learning at Università degli Studi di Pavia, Italy. 
+
+# Education
+I'm a first-year PhD student in Quantum Machine Learning at University of Pavia, interested in classical and quantum machine learning and their applications in different fields. My research project aims to compare the performances of quantum machine learning algorithms on different real quantum processing units. My master thesis that was focused on the application of quantum machine learning techniques in order to detect peculiar quantum features. 
+
+
+Apart from the academic side, I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling.
 
 You can use the [editor on GitHub](https://github.com/fran-scala/francescoscala.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
