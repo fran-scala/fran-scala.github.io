@@ -1,3 +1,7 @@
+<p>
+  <a href="" target="_blank"><img src=f.scala_1.jpg width="60%"/> </a>
+</p>
+
 # About me
 
 I'm 24 y.o. and I'm a PhD student in Quantum Machine Learning at Università degli Studi di Pavia, Italy. My hometown is Cremona, a little city in the north of Italy (not far from Milan). I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling.
