@@ -10,8 +10,15 @@ I'm a first-year PhD student in Quantum Machine Learning at University of Pavia,
 
 ## Recent achievements
 
-- IBM developer certification
-- 2nd place at MIT iQuHack Microsoft/IonQ challenge [QuHackJack Casinos] ()
+- IBM Certified Associate Developer
+- 2nd place at MIT iQuHack Microsoft/IonQ challenge [QuHackJack Casinos] (https://karimaed.github.io/2022_microsoft_ionq_challenge/)
+
+## Skills
+
+- Quantum Computing
+- Good programming skills in Python 
+- Excellent knowledge ofQiskit
+- Basic knowledge of AWS Braket, Pytket, Pennylane and C++
 
 ## Education
 
