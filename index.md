@@ -1,5 +1,5 @@
 <p>
-  <a href="" target="_blank"><img src="https://github.com/fran-scala/fran-scala.github.io/blob/fa6722eeeddbfcc664445c684b06b5a582eeac4c/DSC_0223.JPG?raw=true" width="50%"/> </a>
+  <a href="" target="_blank"><img src="https://github.com/fran-scala/fran-scala.github.io/blob/fa6722eeeddbfcc664445c684b06b5a582eeac4c/DSC_0223.JPG?raw=true" width="70%"/> </a>
 </p>
 
 # About me 
@@ -11,7 +11,7 @@ I'm a first-year PhD student in Quantum Machine Learning at University of Pavia,
 ## Recent achievements
 
 - IBM Certified Associate Developer
-- 2nd place at MIT iQuHack Microsoft/IonQ challenge [QuHackJack Casinos] (https://karimaed.github.io/2022_microsoft_ionq_challenge/)
+- 2nd place at MIT iQuHack Microsoft/IonQ challenge [QuHackJack Casinos](https://karimaed.github.io/2022_microsoft_ionq_challenge/)
 
 ## Skills
 
@@ -19,6 +19,7 @@ I'm a first-year PhD student in Quantum Machine Learning at University of Pavia,
 - Good programming skills in Python 
 - Excellent knowledge ofQiskit
 - Basic knowledge of AWS Braket, Pytket, Pennylane and C++
+- Good knowledge of LaTeX
 
 ## Education
 
@@ -53,7 +54,7 @@ Recently I've also started programming outside working hours, attending extra co
 
 ## Casual job
 
-I've been working occasionally since 2015 as steward at local fairs , as waiter in disco-clubs and catering operator in weddings and various events.
+I've been working occasionally since 2015 as steward at local exhibitions, as waiter in disco-clubs and catering operator in weddings and various events.
 
 ### Markdown
 
