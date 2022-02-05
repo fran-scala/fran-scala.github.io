@@ -15,11 +15,11 @@ I'm a first-year PhD student in Quantum Machine Learning at University of Pavia,
 
 ## Skills
 
-- Quantum Computing
+- [Quantum Computing](https://en.wikipedia.org/wiki/Quantum_computing)
 - Good programming skills in Python 
-- Excellent knowledge ofQiskit
-- Basic knowledge of AWS Braket, Pytket, Pennylane and C++
-- Good knowledge of LaTeX
+- Excellent knowledge of [Qiskit](https://qiskit.org/)
+- Basic knowledge of [AWS Braket](https://aws.amazon.com/braket/), [Pytket](https://github.com/CQCL/tket), [Pennylane](https://pennylane.ai/) and C++
+- Good knowledge of [LaTeX](https://www.latex-project.org/)
 
 ## Education
 
@@ -41,7 +41,7 @@ Co-supervisor: Francesco Tacchino (Research Staff Member at IBM Research – Zur
 ## College life 
 **Almo Collegio Borromeo**
 
-Almo Collegio Borromeo, founded in 1561 by Carlo Borromeo, is a meritocratic university residence and is the oldest such institution remaining in operation in Italy. It is also a _highly qualified Cultural Institute_ by the Ministry of Universities and Research.
+[Almo Collegio Borromeo](http://www.collegioborromeo.it/it/it/), founded in 1561 by Carlo Borromeo, is a meritocratic university residence and is the oldest such institution remaining in operation in Italy. It is also a _highly qualified Cultural Institute_ by the Ministry of Universities and Research.
 In order to become an _alumno_ you need to pass an admission test. The strict requirements to keep the status of student of the college are based on academic achievements (minimum GPA of 27/30) and extracurricular activities (at least 70 hours per year).
 
 I have been an _alumno_ from 2016 to 2021. Apart from the academic requirements and the educational opportunities the this college provides, the are a lot of informal activities organized by the students for the students. In addition, in Pavia there other colleges that together orgazine tournaments and events. For example, I was in the football team and one of the main organizers of our annual college's party "Festa di Primavera".
@@ -49,7 +49,7 @@ I have been an _alumno_ from 2016 to 2021. Apart from the academic requirements 
 All this things allowed me to form a strong bond of friendship with some of my college mates and made living at Almo Collegio Borromeo one of the best experiences of my life. 
 
 ## Hobbies and free time
-Apart from the academic side, I'm an outgoing and active person. In my free time I really enjoy playing sports, gardening, traveling, listening to podcasts and of course hanging out with friends. At the moment, I'm follwing a Calisthenics course and playing in my old college football team. My favourite podcast is Cachemire Podcast by Luca Ravenna and Edoardo Ferrario.  
+Apart from the academic side, I'm an outgoing and active person. In my free time I really enjoy playing sports, gardening, traveling, listening to podcasts and of course hanging out with friends. At the moment, I'm follwing a Calisthenics course and playing in my old college football team. My favourite podcast is [Cachemire Podcast](https://www.youtube.com/channel/UCjFcu9AcbSw_0iLoXcb1y7Q) by Luca Ravenna and Edoardo Ferrario.  
 Recently I've also started programming outside working hours, attending extra courses and partecipating in hackatons and challenges.
 
 ## Casual job
