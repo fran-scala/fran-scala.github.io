@@ -1,5 +1,5 @@
 <p>
-  <a href="" target="_blank"><img src="https://github.com/fran-scala/fran-scala.github.io/blob/3029a94a65072b3019849623d6865aae16fe6130/f_scala_1%20copia.png?raw=true" width="30%"/> </a>
+  <a href="" target="_blank"><img src="https://github.com/fran-scala/fran-scala.github.io/blob/fa6722eeeddbfcc664445c684b06b5a582eeac4c/DSC_0223.JPG?raw=true" width="50%"/> </a>
 </p>
 
 # About me 
