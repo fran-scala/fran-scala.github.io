@@ -3,7 +3,7 @@
 </p>
 
 # About me 
-I'm 24 y.o. and I'm a PhD student in Quantum Machine Learning at Università degli Studi di Pavia, Italy. My hometown is Cremona, a little city in the north of Italy (not far from Milan). I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling.
+Hi! My name is Francesco Scala, I'm 24 y.o. and I'm a PhD student in Quantum Machine Learning at Università degli Studi di Pavia, Italy. My hometown is Cremona, a little city in the north of Italy (not far from Milan). I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling.
 
 ## At the moment
 I'm a first-year PhD student in Quantum Machine Learning at University of Pavia, interested in classical and quantum machine learning and their applications in different fields. My research project aims to compare the performances of quantum machine learning algorithms on different real quantum processing units. 
