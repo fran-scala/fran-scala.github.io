@@ -11,7 +11,7 @@ I'm a first-year PhD student in Quantum Machine Learning at University of Pavia,
 ## Recent achievements
 
 - [IBM Certified Associate Developer](https://www.credly.com/users/francesco-scala)
-- 2nd place at MIT iQuHack Microsoft/IonQ challenge with the [QuHackJack Casinos](https://karimaed.github.io/2022_microsoft_ionq_challenge/) team
+- 2nd place at [MIT iQuHack](https://www.iquise.mit.edu/iQuHACK/2022-01-28) Microsoft/IonQ challenge with the [QuHackJack Casinos](https://karimaed.github.io/2022_microsoft_ionq_challenge/) team
 
 ## Skills
 
