@@ -18,7 +18,8 @@ I'm a first-year PhD student in Quantum Machine Learning at University of Pavia,
 - [Quantum Computing](https://en.wikipedia.org/wiki/Quantum_computing)
 - Good programming skills in Python 
 - Excellent knowledge of [Qiskit](https://qiskit.org/)
-- Basic knowledge of [AWS Braket](https://aws.amazon.com/braket/), [Pytket](https://github.com/CQCL/tket), [Pennylane](https://pennylane.ai/) and C++
+- Familiarity with [AWS Braket](https://aws.amazon.com/braket/), [Pytket](https://github.com/CQCL/tket), [Pennylane](https://pennylane.ai/)
+- Basic knowledge of C++
 - Good knowledge of [LaTeX](https://www.latex-project.org/)
 
 ## Education
