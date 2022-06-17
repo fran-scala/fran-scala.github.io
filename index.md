@@ -10,11 +10,12 @@ I'm a first-year PhD student in Quantum Machine Learning at University of Pavia,
 
 ## Some links
 
+[Univeristà di Pavia](https://fisica.unipv.it/personale/Persona.php?ID=591)
+
+[Google Scholar](https://scholar.google.com/citations?hl=it&user=soJ4ZxoAAAAJ)
+
 [ResearchGate](https://www.researchgate.net/profile/Francesco-Scala-2)    
 
-[Google Scholar]()
-
-[Univeristà di Pavia]()
 
 
 ## Recent contributions
