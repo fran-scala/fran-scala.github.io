@@ -3,12 +3,26 @@
 </p>
 
 # About me 
-Hi! My name is Francesco Scala, I'm 24 y.o. and I'm a PhD student in Quantum Machine Learning at Università degli Studi di Pavia, Italy. My hometown is Cremona, a little city in the north of Italy (not far from Milan). I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling.
+Hi! My name is Francesco Scala, I'm 25 y.o. and I'm a PhD student in Quantum Machine Learning at Università degli Studi di Pavia, Italy. My hometown is Cremona, a little city in the north of Italy (not far from Milan). I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling.
 
 ## At the moment
 I'm a first-year PhD student in Quantum Machine Learning at University of Pavia, interested in classical and quantum machine learning and their applications in different fields. My research project aims to compare the performances of quantum machine learning algorithms on different real quantum processing units. 
 
-## Recent achievements
+## Some links
+
+[ResearchGate](https://www.researchgate.net/profile/Francesco-Scala-2)    
+
+[Google Scholar]()
+
+[Univeristà di Pavia]()
+
+
+## Recent contributions
+
+- [Quantum Computing Hardware and Software (QCHS) 2022](https://qchs2022.epfl.ethz.ch/): Quantum Variational Learning for Entanglement Witnessing (Poster)
+- [World Congress on Computational Intelligence (WCCI)](https://wcci2022.org/): Quantum Variational Learning for Entanglement Witnessing (Talk)
+
+## Recent extracurricular achievements
 
 - [IBM Certified Associate Developer](https://www.credly.com/users/francesco-scala)
 - 2nd place at [MIT iQuHack](https://www.iquise.mit.edu/iQuHACK/2022-01-28) Microsoft/IonQ challenge with the [QuHackJack Casinos](https://karimaed.github.io/2022_microsoft_ionq_challenge/) team
