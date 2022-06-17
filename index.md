@@ -16,12 +16,14 @@ I'm a first-year PhD student in Quantum Machine Learning at University of Pavia,
 
 [ResearchGate](https://www.researchgate.net/profile/Francesco-Scala-2)    
 
+## Publications
 
+- [**arXiv:2205.10429**](https://arxiv.org/abs/2205.10429) *Quantum Variational Learning for Entanglement Witnessing*
 
-## Recent contributions
+## Recent contributions: conferences, schools
 
 - [Quantum Computing Hardware and Software (QCHS) 2022](https://qchs2022.epfl.ethz.ch/): Quantum Variational Learning for Entanglement Witnessing (Poster)
-- [World Congress on Computational Intelligence (WCCI)](https://wcci2022.org/): Quantum Variational Learning for Entanglement Witnessing (Talk)
+- [World Congress on Computational Intelligence (WCCI) 2022](https://wcci2022.org/): Quantum Variational Learning for Entanglement Witnessing (Talk)
 
 ## Recent extracurricular achievements
 
