@@ -17,6 +17,8 @@ I'm a second-year PhD student in Quantum Machine Learning at University of Pavia
 
 [ResearchGate](https://www.researchgate.net/profile/Francesco-Scala-2)    
 
+[Github](https://github.com/fran-scala)
+
 ## Publications
 
 - [**arXiv:2302.10660**](https://arxiv.org/abs/2302.10660) *Compact Effective Basis Generation: Insights from Interpretable Circuit Design* (2023)
