@@ -1,9 +1,10 @@
-<p>
-  <a href="" target="_blank"><img src="https://github.com/fran-scala/fran-scala.github.io/blob/fa6722eeeddbfcc664445c684b06b5a582eeac4c/DSC_0223.JPG?raw=true" width="90%"/> </a>
-</p>
-
 # About me 
 Hi! My name is Francesco Scala, I'm 25 y.o. and I'm a PhD student in Quantum Machine Learning at Università degli Studi di Pavia, Italy. My hometown is Cremona, a little city in the north of Italy (not far from Milan). I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling.
+
+<p>
+  <a href="" target="_blank"><img src="https://github.com/fran-scala/fran-scala.github.io/blob/fa6722eeeddbfcc664445c684b06b5a582eeac4c/DSC_0223.JPG?raw=true" width="70%" class="center" /> </a>
+</p>
+
 
 ## At the moment
 I'm a second-year PhD student in Quantum Machine Learning at University of Pavia, interested in classical and quantum machine learning and their applications in different fields. My research project aims to compare the performances of quantum machine learning algorithms on different real quantum processing units. 
@@ -31,7 +32,7 @@ I'm a second-year PhD student in Quantum Machine Learning at University of Pavia
 
 
 ## Extracurricular achievements
-
+- 1st place at [ETH Quantum Hackathon 2023](https://qec.amiv.ethz.ch/qhack23/) - IQM Challenge with the [C-NOTpolitecnico](https://github.com/fran-scala/eth-qec-hackathon-2023}) team
 - [IBM Certified Associate Developer](https://www.credly.com/users/francesco-scala)
 - 2nd place at [MIT iQuHack](https://www.iquise.mit.edu/iQuHACK/2022-01-28) Microsoft/IonQ challenge with the [QuHackJack Casinos](https://karimaed.github.io/2022_microsoft_ionq_challenge/) team
 
