@@ -18,7 +18,9 @@ I'm a second-year PhD student in Quantum Machine Learning at University of Pavia
 
 ## Publications
 
-- [**IJCNN 2022 Proceedings**](https://doi.org/10.1109/IJCNN55064.2022.9892080) *Quantum Variational Learning for Entanglement Witnessing*
+- [**arXiv:2302.10660**](https://arxiv.org/abs/2302.10660) *Compact Effective Basis Generation: Insights from Interpretable Circuit Design* (2023)
+- [**IJCNN 2022 Proceedings**](https://doi.org/10.1109/IJCNN55064.2022.9892080) *Quantum Variational Learning for Entanglement Witnessing* (2022)
+
 
 ## Recent contributions: conferences, schools
 
