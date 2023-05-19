@@ -73,7 +73,8 @@ I have been an _alumno_ from 2016 to 2021. Apart from the academic requirements 
 All this things allowed me to form a strong bond of friendship with some of my college mates and made living at Almo Collegio Borromeo one of the best experiences of my life. 
 
 ## Hobbies and free time
-Apart from the academic side, I'm an outgoing and active person. In my free time I really enjoy playing sports, gardening, traveling, listening to podcasts and of course hanging out with friends. At the moment, I'm follwing a Calisthenics course and playing in my old college football team. My favourite podcast is [Cachemire Podcast](https://www.youtube.com/channel/UCjFcu9AcbSw_0iLoXcb1y7Q) by Luca Ravenna and Edoardo Ferrario.  
+Apart from the academic side, I'm an outgoing and active person. In my free time I really enjoy playing sports, gardening, traveling, listening to podcasts and of course hanging out with friends. At the moment, I'm follwing a Calisthenics course and playing in my old college football team. 
+
 Recently I've also started programming outside working hours, attending extra courses and partecipating in hackatons and challenges.
 
 ## Casual job
