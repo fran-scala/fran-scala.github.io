@@ -7,7 +7,7 @@ Hi! My name is Francesco Scala, I'm 26 y.o. and I'm a PhD student in Quantum Mac
 
 
 ## At the moment
-I'm a second-year PhD student in Quantum Machine Learning at University of Pavia, interested in classical and quantum machine learning and their applications in different fields. My research project aims to compare the performances of quantum machine learning algorithms on different real quantum processing units. 
+I’m a third‐year PhD student in Quantum Machine Learning (QML) at University of Pavia, focusing on both classical and quantum machine learning. My research deals with QML algorithms, with a special focus on overparametrization and regularization properties of Quantum Neural Networks. Part of my studies are also devoted to simulations of quantum computing platforms. My supervisor is Prof. Dario Gerace.
 
 ## Some links
 
