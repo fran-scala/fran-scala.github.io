@@ -20,17 +20,19 @@ I'm a second-year PhD student in Quantum Machine Learning at University of Pavia
 [Github](https://github.com/fran-scala)
 
 ## Publications
-
+- [**arXiv:2310.04120**](https://arxiv.org/abs/2310.04120) *A General Approach to Dropout in Quantum Neural Networks* (2023) (Accepted by Adv. Quant. Tech.)
+-[**arXiv:2306.05072**](https://arxiv.org/abs/2306.05072) *Deterministic entangling gates with nonlinear quantum photonic interferometers* (2023)
 - [**arXiv:2302.10660**](https://arxiv.org/abs/2302.10660) *Compact Effective Basis Generation: Insights from Interpretable Circuit Design* (2023)
 - [**IJCNN 2022 Proceedings**](https://doi.org/10.1109/IJCNN55064.2022.9892080) *Quantum Variational Learning for Entanglement Witnessing* (2022)
 
 
 ## Recent contributions: conferences, schools
 
-- [Quantum Techniques in Machine Learning (QTML) 2022](https://quasar.unina.it/qtml2022.html): Quantum Variational Learning for Entanglement Witnessing (Poster)
-- [VCQ & AppQIinfo SummerSchool 2022](https://vcq.quantum.at/summer-school-2022/):  Quantum variational learning for entanglement witnessing (Student Talk)
-- [World Congress on Computational Intelligence (WCCI) 2022](https://wcci2022.org/): Quantum Variational Learning for Entanglement Witnessing (Talk)
-- [Quantum Computing Hardware and Software (QCHS) 2022](https://qchs2022.epfl.ethz.ch/): Quantum Variational Learning for Entanglement Witnessing (Poster)
+- [Quantum Techniques in Machine Learning (QTML2023)](https://github.com/fran-scala/Quantum_computing_talks/tree/main/Research/QTML2023): A General Approach to Dropout in Quantum Neural Networks (Talk)
+- [Optics of Excitons in Confined Systems (OECS18)](https://github.com/fran-scala/Quantum_computing_talks/tree/main/Research/OECS18): Quantum computing platform with polariton integrated circuits (Talk)
+
+[Full list](https://github.com/fran-scala/Quantum_computing_talks/tree/main)
+
 
 
 ## Extracurricular achievements
@@ -42,8 +44,8 @@ I'm a second-year PhD student in Quantum Machine Learning at University of Pavia
 
 - [Quantum Computing](https://en.wikipedia.org/wiki/Quantum_computing)
 - Good programming skills in Python 
-- Excellent knowledge of [Qiskit](https://qiskit.org/)
-- Familiarity with [Pennylane](https://pennylane.ai/), [AWS Braket](https://aws.amazon.com/braket/), [Pytket](https://github.com/CQCL/tket)
+- Excellent knowledge of [Qiskit](https://qiskit.org/), [Pennylane](https://pennylane.ai/), [JAX](https://github.com/google/jax)
+- Familiarity with [Tequila](https://github.com/tequilahub/tequila), [AWS Braket](https://aws.amazon.com/braket/), [Pytket](https://github.com/CQCL/tket)
 - Basic knowledge of C++
 - Good knowledge of [LaTeX](https://www.latex-project.org/)
 
