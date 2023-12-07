@@ -21,7 +21,7 @@ I'm a second-year PhD student in Quantum Machine Learning at University of Pavia
 
 ## Publications
 - [**arXiv:2310.04120**](https://arxiv.org/abs/2310.04120) *A General Approach to Dropout in Quantum Neural Networks* (2023) (Accepted by Adv. Quant. Tech.)
--[**arXiv:2306.05072**](https://arxiv.org/abs/2306.05072) *Deterministic entangling gates with nonlinear quantum photonic interferometers* (2023)
+- [**arXiv:2306.05072**](https://arxiv.org/abs/2306.05072) *Deterministic entangling gates with nonlinear quantum photonic interferometers* (2023)
 - [**arXiv:2302.10660**](https://arxiv.org/abs/2302.10660) *Compact Effective Basis Generation: Insights from Interpretable Circuit Design* (2023)
 - [**IJCNN 2022 Proceedings**](https://doi.org/10.1109/IJCNN55064.2022.9892080) *Quantum Variational Learning for Entanglement Witnessing* (2022)
 
