@@ -77,9 +77,9 @@ I have been an _alumno_ from 2016 to 2021. Apart from the academic requirements 
 All this things allowed me to form a strong bond of friendship with some of my college mates and made living at Almo Collegio Borromeo one of the best experiences of my life. 
 
 ## Hobbies and free time
-Apart from the academic side, I'm an outgoing and active person. In my free time I really enjoy playing sports, gardening, traveling, listening to podcasts and of course hanging out with friends. At the moment, I'm follwing a Calisthenics course and playing in my old college football team. 
+Apart from the academic side, I'm an outgoing and active person. In my free time, I really enjoy playing sports, gardening, travelling, listening to podcasts and of course hanging out with friends. Two years ago, I began my venture into the world of Calisthenics, a form of exercise that utilizes bodyweight movements to build strength and flexibility. While I do not consider myself an expert in this discipline just yet, I've made significant strides in my abilities, and the progress I've achieved is truly motivating. Calisthenics demands dedication, patience, and consistent effort, and as I continue on this journey, I'm looking forward to seeing what the next years will bring as I continue to refine my skills and deepen my passion for Calisthenics.
 
-Recently I've also started programming outside working hours, attending extra courses and partecipating in hackatons and challenges.
+Recently I've also started programming outside working hours and participating in hackathons and challenges.
 
 ## Casual job
 
