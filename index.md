@@ -1,5 +1,5 @@
 # About me 
-Hi! My name is Francesco Scala, I'm 26 y.o. and I'm a PhD student in Quantum Machine Learning at Università degli Studi di Pavia, Italy. My hometown is Cremona, a little city in the north of Italy (not far from Milan). I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling.
+Hi! My name is Francesco Scala, I'm 26 y.o. and I'm a PhD student in Quantum Machine Learning at Università degli Studi di Pavia, Italy. My hometown is Cremona, a little city in the north of Italy (not far from Milan). I'm an outgoing and active person. I really enjoy playing sports, gardening and travelling.
 
 <p>
   <a href="" target="_blank"><img src="https://github.com/fran-scala/fran-scala.github.io/blob/fa6722eeeddbfcc664445c684b06b5a582eeac4c/DSC_0223.JPG?raw=true" width="70%" class="center" /> </a>
@@ -31,7 +31,7 @@ I'm a second-year PhD student in Quantum Machine Learning at University of Pavia
 - [Quantum Techniques in Machine Learning (QTML2023)](https://github.com/fran-scala/Quantum_computing_talks/tree/main/Research/QTML2023): A General Approach to Dropout in Quantum Neural Networks (Talk)
 - [Optics of Excitons in Confined Systems (OECS18)](https://github.com/fran-scala/Quantum_computing_talks/tree/main/Research/OECS18): Quantum computing platform with polariton integrated circuits (Talk)
 
-[Full list](https://github.com/fran-scala/Quantum_computing_talks/tree/main)
+[Full list of contributions](https://github.com/fran-scala/Quantum_computing_talks/tree/main)
 
 
 
