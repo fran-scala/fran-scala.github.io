@@ -69,7 +69,7 @@ url = "collaborators/"
 [[main]]
 parent = "Other"
 name = "Contacts"
-url = "contact/"
+url = "contacts/"
 
 # [[main]]
 # parent = "Scientific Papers"
