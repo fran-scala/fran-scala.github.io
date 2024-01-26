@@ -1,0 +1,99 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About"
+
+weight = 2
+hasChildren = true
+
+[[main]]
+parent = "About"
+name = "Brief CV"
+url = "about"
+
+[[main]]
+parent = "About"
+name = "Calisthenics"
+url = "calisthenics/"
+
+[[main]]
+parent = "About"
+name = "Education"
+url = "education/"
+
+[[main]]
+name = "Scientific Contributions"
+url = "contributions/"
+weight = 3
+hasChildren = true
+
+[[main]]
+parent = "Scientific Contributions"
+name = "Talks"
+url = "talks/"
+
+[[main]]
+parent = "Scientific Contributions"
+name = "Posters"
+url = "posters/"
+
+
+# [[main]]
+# weight = 4
+# name = "Scientific Papers"
+# hasChildren = true
+# url = "blog/"
+
+[[main]]
+parent = "Scientific Contributions"
+name = "Papers"
+url = "papers/"
+
+[[main]]
+weight = 4
+name = "Other"
+hasChildren = true
+# url = "blog/"
+
+[[main]]
+parent = "Other"
+name = "Collaborators"
+url = "collaborators/"
+
+[[main]]
+parent = "Other"
+name = "Contacts"
+url = "contact/"
+
+# [[main]]
+# parent = "Scientific Papers"
+# name = "Categories"
+# url = "categories/"
+
+#[[main]]
+#parent = "Pages"
+#name = "404 Page"
+#url = "404/"
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Papers"
+url = "papers/"
+weight = 2
+
+[[footer]]
+name = "Talks"
+url = "talks/"
+weight = 3

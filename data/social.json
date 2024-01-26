@@ -1,0 +1,29 @@
+{
+  "main": [
+    {
+      "name": "facebook",
+      "icon": "fab fa-facebook",
+      "link": "https://www.facebook.com/profile.php?id=100008322940125"
+    },
+    {
+      "name": "twitter",
+      "icon": "fab fa-twitter",
+      "link": "https://twitter.com/"
+    },
+    {
+      "name": "scholar",
+      "icon": "fa-solid fa-graduation-cap",
+      "link": "https://scholar.google.com/citations?user=soJ4ZxoAAAAJ&hl=en"
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://www.github.com/"
+    },
+    {
+      "name": "linkedin",
+      "icon": "fab fa-linkedin",
+      "link": "https://www.linkedin.com/"
+    }
+  ]
+}
