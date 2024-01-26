@@ -47,8 +47,5 @@ My name is Francesco Scala, I'm 26 y.o. and I'm a PhD student in Quantum Machine
 - Familiarity with [AWS Braket](https://aws.amazon.com/braket/), [Pytket](https://github.com/CQCL/tket)
 - Excellent knowledge of [LaTeX](https://www.latex-project.org/)
 
-
-
-<!-- <a class="btn btn-outline-primary btn-sm" href="/images/fs/people/simonezanotti.jpg" download>
-    download full CV
-</a> -->
+[Download full CV]("http://fran-scala.github.io/assets/images/documents/Curriculum_Vitae_updated.pdf")
+Last rev 14th October 2023
