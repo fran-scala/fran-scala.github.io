@@ -16,7 +16,7 @@ features:
   - title: "Francesco Scala"
     content: "Hi! My name is Francesco Scala, I'm a PhD student in <b>Quantum Machine Learning</b> at Università degli Studi di Pavia, Italy. My hometown is Cremona, a little city in the north of Italy (not far from Milan). I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling. <b>Scroll down if you want to know more about me!</b>
     <br><br>
-    If you want to reach out contact me at: <b>francesco.scala@ateneopv.it</b>"
+    If you want to reach out contact me at: <b>francesco.scala01@ateneopv.it</b>"
     image: "/images/fs/DSC_0223.JPG"
 
   - title: "PhD research at a glance"
