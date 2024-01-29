@@ -20,7 +20,7 @@ features:
     image: "/images/fs/DSC_0223.JPG"
 
   - title: "PhD research at a glance"
-    image: "/images/service-1.png"
+    image: "/images/fs/papers/research_png.png"
     content: "The focus of my research is in the field of Quantum Machine Learning (QML) and Quantum Technologies. Some of the topics are "
     bulletpoints:
       - "Quantum Computing Algorithms"
@@ -38,10 +38,10 @@ features:
     image: "/images/fs/some_links.png"
     content: ""
     bulletpoints:
-        - "[Univeristà di Pavia](https://fisica.unipv.it/personale/Persona.php?ID=591)"
-        - "[Google Scholar](https://scholar.google.com/citations?hl=it&user=soJ4ZxoAAAAJ)"
-        - "[ResearchGate](https://www.researchgate.net/profile/Francesco-Scala-2)    "
-        - "[Github](https://github.com/fran-scala)"
+        - "[<u>Università di Pavia</u>](https://fisica.unipv.it/personale/Persona.php?ID=591)"
+        - "[<u>Google Scholar</u>](https://scholar.google.com/citations?hl=it&user=soJ4ZxoAAAAJ)"
+        - "[<u>ResearchGate</u>](https://www.researchgate.net/profile/Francesco-Scala-2)    "
+        - "[<u>Github</u>](https://github.com/fran-scala)"
   #   button:
   #     enable: false
   #     label: ""
