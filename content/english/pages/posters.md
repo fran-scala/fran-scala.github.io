@@ -1,5 +1,6 @@
 ---
 title: "Posters"
+image: "/images/image-placeholder.png"
 # meta title
 meta_title: ""
 # meta description

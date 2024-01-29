@@ -1,5 +1,6 @@
 ---
 title: "Calisthenics"
+image: "/images/fs/calisthenics.png"
 # meta title
 meta_title: ""
 # meta description
