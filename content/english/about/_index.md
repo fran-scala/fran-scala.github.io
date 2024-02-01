@@ -47,5 +47,5 @@ My name is Francesco Scala, I'm 26 y.o. and I'm a PhD student in Quantum Machine
 - Familiarity with [AWS Braket](https://aws.amazon.com/braket/), [Pytket](https://github.com/CQCL/tket)
 - Excellent knowledge of [LaTeX](https://www.latex-project.org/)
 
-[Download full CV](http://fran-scala.github.io/images/documents/Francesco_Scala_s_CV.pdf)
+[Download full CV](http://fran-scala.github.io/documents/Francesco_Scala_s_CV.pdf)
 Last rev 14th October 2023
