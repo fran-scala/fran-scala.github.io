@@ -21,7 +21,7 @@ features:
     </div>
     <br>
     <div class='warning' style=' border: solid #0096FF 1px; border-radius: 8px; padding:0.7em;'>
-    If you are interested in my work and academic background download my CV [<i class='fa-solid fa-download'></i>](./about/documents/resume.pdf) or click on the button here below.
+    If you are interested in my work and academic background <u>[download my CV <i class='fa-solid fa-download'></i>](./about/documents/resume.pdf)</u> or click on the button here below.
     
     </div>
     <br>
