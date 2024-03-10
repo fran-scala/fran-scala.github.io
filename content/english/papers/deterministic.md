@@ -1,7 +1,7 @@
 ---
 title: "Deterministic entangling gates with nonlinear quantum photonic interferometers"
 meta_title: ""
-description: "Deterministic entangling gates"
+description: "Deterministic entangling gates by distributed Kerr nonlinearity"
 date: 2023-06-08T05:00:00Z
 image: "/images/fs/papers/deterministic_gates.png"
 categories: ["Quantum Technologies"]
@@ -9,7 +9,7 @@ author: ["Francesco Scala", "Davide Nigro", "Dario Gerace"]
 tags: ["nonlinear photonics", "deterministic quantum computation", 
         "exction-polaritons"]
 draft: false
-summary: arXiv:2306.05072
+summary: "[arXiv:2306.05072](https://arxiv.org/abs/2306.05072)"
 ---
 [arXiv:2306.05072](https://arxiv.org/abs/2306.05072)
 

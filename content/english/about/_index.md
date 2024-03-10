@@ -8,44 +8,35 @@ draft: false
 
 My name is Francesco Scala, I'm 26 y.o. and I'm a PhD student in Quantum Machine Learning at Università degli Studi di Pavia, Italy.
 
+<div class="warning" style=' border: solid #0096FF 1px; border-radius: 8px; padding:0.7em;'>
+
+[<i class="fa-solid fa-download"></i>](./documents/resume.pdf) [Download full CV](./documents/resume.pdf)  (Last rev. 10th March 2024)
+
+</div>
+
 ## Experience
 
 ### Full-Time
+- Mar ‐ May 2024 | _Reserach intern_ @ [IBM Research Europe](https://research.ibm.com/labs/zurich), Zurich 🇨🇭 
 
-- _**2021-present**_ | _Pavia – Italy_
-
-    **PhD in Quantum Machine Learning @UNIVERSITÀ DEGLI STUDI DI PAVIA**
-
-    Quantum Computing, Quantum algorithms and Quantum Machine Learning for entanglement detection on state-of-the-art quantum hardware. 
-
-    My supervisor is Prof. Dario Gerace.
+- 2021-present | _PhD in Quantum Machine Learning_ @ University of Pavia, Pavia 🇮🇹
 
 ### Part-Time
 
-- _**Oct 2022-present**_ | _Pavia - Italy_
+- Oct 2022-present | _Teaching assistant - General Physics_ @ University of Pavia, Pavia 🇮🇹
 
-    **Teaching assistant @UNIVERSITÀ DEGLI STUDI DI PAVIA** 
+- Jul 2022-Dec 2022 | _Intern_ @ [Quantum Computing Lab CINECA](https://www.quantumcomputinglab.cineca.it/), Casalecchio di Reno 🇮🇹
 
-    Lectures on General Physics (1st year course) at the single cycle degree program in Chemistry and Pharmaceutical Technologies
-
-- _**Jul 2022-Dec 2022**_ | _Casalecchio di Reno (BO) - Italy_
-
-    **Intern at Quantum Computing Lab @ CINECA**
-
-    The project aim was the development of software tools for Variational hybrid Quantum Algorithms (VQAs) with a high level of parallelization allowing the exploitation of HPC infrastructures
 
 
 ## Extracurricular achievements
-- 1st place at [ETH Quantum Hackathon 2023](https://qec.amiv.ethz.ch/qhack23/) - IQM Challenge with the [C-NOTpolitecnico](https://github.com/fran-scala/eth-qec-hackathon-2023/) team
+- 2nd place [QHack2024](https://qhack.ai/): Bridging the gap [[paper]](https://arxiv.org/abs/2402.17668) [[Github]](https://github.com/fran-scala/Spectral-Gap-Superposition-States)
+- 1st place at [ETH Quantum Hackathon 2023](https://qec.amiv.ethz.ch/qhack23/): IQM Challenge [[Github]](https://github.com/fran-scala/eth-qec-hackathon-2023/)
 - [IBM Certified Associate Developer](https://www.credly.com/users/francesco-scala)
-- 2nd place at [MIT iQuHack](https://www.iquise.mit.edu/iQuHACK/2022-01-28) Microsoft/IonQ challenge with the [QuHackJack Casinos](https://karimaed.github.io/2022_microsoft_ionq_challenge/) team
+- 2nd place at [MIT iQuHack](https://www.iquise.mit.edu/iQuHACK/2022-01-28): Microsoft/IonQ challenge  [[Github]](https://karimaed.github.io/2022_microsoft_ionq_challenge/) 
 
 ## Skills
 
 - [Quantum Computing](https://en.wikipedia.org/wiki/Quantum_computing) and [Quantum Machine Learning](https://en.wikipedia.org/wiki/Quantum_machine_learning)
-- Excellent knowledge of [Pennylane](https://pennylane.ai/), [JAX](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html), [Qiskit](https://qiskit.org/)
-- Familiarity with [AWS Braket](https://aws.amazon.com/braket/), [Pytket](https://github.com/CQCL/tket)
-- Excellent knowledge of [LaTeX](https://www.latex-project.org/)
+- Quantum programming: [Pennylane](https://pennylane.ai/) (with [JAX](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)), [Qiskit](https://qiskit.org/), [AWS Braket](https://aws.amazon.com/braket/)
 
-[Download full CV](./documents/resume.pdf)
-Last rev 14th October 2023

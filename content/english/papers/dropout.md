@@ -1,5 +1,5 @@
 ---
-title: "A general approach to Dropout in Quantum Neural Networks"
+title: "A General Approach to Dropout in Quantum Neural Networks"
 meta_title: ""
 description: "Analysis of dropout technique in Quantum Machine Learning"
 date: 2023-10-05T00:06:00Z
@@ -8,7 +8,7 @@ categories: ["Quantum Machine Learning"]
 author: ["Francesco Scala", "Andrea Ceschini", "Massimo Panella","Dario Gerace"]
 tags: ["QML", "QNN", "Algorithms", "Entanglement"]
 draft: false
-summary: "Adv. Quantum Technol. 2023, 2300220"
+summary: "[Adv. Quantum Technol. 2023, 2300220](https://doi.org/10.1002/qute.202300220)"
 ---
 
 [Adv. Quantum Technol. 2023, 2300220](https://doi.org/10.1002/qute.202300220)

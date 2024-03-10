@@ -1,14 +1,14 @@
 ---
 title: "Quantum variational learning for entanglement witnessing"
 meta_title: ""
-description: "entanglement witnessing with QML"
+description: "Entanglement witnessing with QML"
 date: 2022-07-18T00:07:00Z
 image: "/images/fs/papers/witness.png"
 categories: ["Quantum Machine Learning"]
 author: ["Francesco Scala", "Stefano Mangini", "Chiara Macchiavello", "Daniele Bajoni", "Dario Gerace"]
 tags: ["Algorithms", "QML", "Entanglement"]
 draft: false
-summary: "2022 International Joint Conference on Neural Networks (IJCNN), 1-8  "
+summary: "[2022 International Joint Conference on Neural Networks (IJCNN), 1-8](https://ieeexplore.ieee.org/abstract/document/9892080)"
 ---
 
 [2022 International Joint Conference on Neural Networks (IJCNN), 1-8](https://ieeexplore.ieee.org/abstract/document/9892080)

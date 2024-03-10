@@ -1,14 +1,14 @@
 ---
 title: "Compact Effective Basis Generation: Insights from Interpretable Circuit Design"
 meta_title: ""
-description: "effective optimized approach to prepare ground states"
+description: "Effective optimized approach to prepare ground states"
 date: 2023-02-21T05:00:00Z
 image: "/images/fs/papers/effective_basis.png"
 categories: ["Quantum Chemistry"]
 author: ["Jakob S. Kottmann","Francesco Scala"]
 tags: ["Krylov", "Chemistry", "Optimization"]
 draft: false
-summary: "arXiv:2302.10660"
+summary: "[arXiv:2302.10660](https://arxiv.org/abs/2302.10660)"
 ---
 
 [arXiv:2302.10660](https://arxiv.org/abs/2302.10660)
