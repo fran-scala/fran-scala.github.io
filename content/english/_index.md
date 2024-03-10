@@ -14,10 +14,17 @@
 # Features
 features:
   - title: "Francesco Scala"
-    content: "Hi! My name is Francesco Scala, I'm a PhD student in <b>Quantum Machine Learning</b> at Università degli Studi di Pavia, Italy. My hometown is Cremona, a little city in the north of Italy (not far from Milan). I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling. <b>Scroll down if you want to know more about me!</b>
+    content: "Hi! My name is Francesco Scala, I'm a PhD student in <b>Quantum Machine Learning</b> at Università degli Studi di Pavia, Italy. I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling. 
     <br><br>
-    If you want to reach out contact me at: <b>francesco.scala01@ateneopv.it</b>"
+    If you want to reach out contact me at: <b>francesco.scala01@ateneopv.it</b>
+    <br><br>
+    <b>Scroll down if you want to know more about me!</b>
+    "
     image: "/images/fs/DSC_0223.JPG"
+    button:
+      enable: true
+      label: "About me"
+      link: "/about"
 
   - title: "PhD research at a glance"
     image: "/images/fs/papers/research_png.png"
@@ -49,7 +56,7 @@ features:
   
   - title: "Calisthenics"
     image: "/images/fs/calisthenics.png"
-    content: "Two years ago, I began my venture into the world of Calisthenics, a form of exercise that utilizes bodyweight movements to build strength and flexibility."
+    content: "In October 2022, I began my venture into the world of Calisthenics, a form of exercise that utilizes bodyweight movements to build strength and flexibility."
     # bulletpoints:
     #   - ""
     #   - ""
