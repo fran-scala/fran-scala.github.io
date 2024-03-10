@@ -2,7 +2,7 @@
 title: Dario Gerace
 email: dario.gerace@unipv.it
 image: "/images/fs/people/dariogerace.jpg"
-description: this is meta description
+description: Supervisor @ UNIPV
 social:
   - name: email
     icon: fa-solid fa-envelope
@@ -17,7 +17,7 @@ social:
     link: https://linkedin.com
   - name: scholar
     icon: fa-solid fa-graduation-cap
-    link: https://scholar.google.com/
+    link: https://scholar.google.com/citations?user=B01-tc8AAAAJ&hl=en&oi=ao
 summary: Full professor <br> Università degli Studi di Pavia
 ---
 

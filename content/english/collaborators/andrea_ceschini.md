@@ -2,7 +2,7 @@
 title: Andrea Ceschini
 email: andrea.ceschini@uniroma1.it
 image: "/images/fs/people/andreaceschini.jpeg"
-description: this is meta description
+description: Collaborator
 social:
   - name: email
     icon: fa-solid fa-envelope
@@ -17,7 +17,7 @@ social:
     link: https://it.linkedin.com/in/andrea-ceschini
   - name: scholar
     icon: fa-solid fa-graduation-cap
-    link: https://scholar.google.com/
+    link: https://scholar.google.com/citations?user=kzJJbfsAAAAJ&hl=en&oi=ao
 summary: PhD Student <br> La Sapienza di Roma
 ---
 

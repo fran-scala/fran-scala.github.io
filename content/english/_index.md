@@ -14,10 +14,17 @@
 # Features
 features:
   - title: "Francesco Scala"
-    content: "Hi! My name is Francesco Scala, I'm a PhD student in <b>Quantum Machine Learning</b> at Università degli Studi di Pavia, Italy. I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling. 
+    content: "Hi! My name is Francesco Scala, on this page you can learn more about me. I'm a PhD student in <b>Quantum Machine Learning</b> at Università degli Studi di Pavia, Italy. I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling. 
     <br><br>
-    If you want to reach out contact me at: <b>francesco.scala01@ateneopv.it</b>
-    <br><br>
+    <div class='warning' style=' border: solid #0096FF 1px; border-radius: 8px; padding:0.7em;'>
+    If you want to reach out feel free to contact me at: <br><i class='fa-solid fa-envelope'></i> <b>francesco.scala01@ateneopv.it</b>
+    </div>
+    <br>
+    <div class='warning' style=' border: solid #0096FF 1px; border-radius: 8px; padding:0.7em;'>
+    If you are interested in my work and academic background download my CV [<i class='fa-solid fa-download'></i>](./about/documents/resume.pdf) or click on the button here below.
+    
+    </div>
+    <br>
     <b>Scroll down if you want to know more about me!</b>
     "
     image: "/images/fs/DSC_0223.JPG"
@@ -38,7 +45,7 @@ features:
     button:
       enable: true
       label: "Papers"
-      link: "/blog"
+      link: "/papers"
     
 
   - title: "Some links"
