@@ -17,7 +17,7 @@ social:
     link: https://it.linkedin.com/in/davidenigrophd
   - name: scholar
     icon: fa-solid fa-graduation-cap
-    link: https://scholar.google.com/
+    link: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=davide+nigro&btnG=
 summary: Post Doc <br> Università degli Studi di Pavia
 ---
 
