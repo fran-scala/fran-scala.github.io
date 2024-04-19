@@ -1,5 +1,5 @@
 ---
-title: "Compact Effective Basis Generation: Insights from Interpretable Circuit Design"
+title: "Quantum Algorithmic Approach to Multiconfigurational Valence Bond Theory: Insights from Interpretable Circuit Design"
 meta_title: ""
 description: "Effective optimized approach to prepare ground states"
 date: 2023-02-21T05:00:00Z
@@ -8,11 +8,12 @@ categories: ["Quantum Chemistry"]
 author: ["Jakob S. Kottmann","Francesco Scala"]
 tags: ["Krylov", "Chemistry", "Optimization"]
 draft: false
-summary: "[arXiv:2302.10660](https://arxiv.org/abs/2302.10660)"
+summary: "[Journal of Chemical Theory and Computation](https://doi.org/10.1021/acs.jctc.3c00565)"
 ---
-
+[Journal of Chemical Theory and Computation](https://doi.org/10.1021/acs.jctc.3c00565)
 [arXiv:2302.10660](https://arxiv.org/abs/2302.10660)
 
 **Authors:** Jakob S. Kottmann, Francesco Scala
 
-Efficient ways to prepare Fermionic ground states on quantum computers are in high demand and different techniques ranging from variational to divide-and-conquer were developed over the last years. Despite having a vast set of methods it is still not clear which method performs well for which system. In this work, we combine interpretable circuit designs with a divide-and-conquer approach and show how this leads to explainable performance. We demonstrate that the developed methodology outperforms other divide-and-conquer methods in terms of size of the effective basis as well as individual quantum resources for the involved circuits.
+Efficient ways to prepare Fermionic ground states on quantum computers are in high demand, and different techniques have been developed over the past few years. Despite having a vast set of methods, it is still unclear which method performs well for which system. In this work, we combine interpretable circuit designs with an effective basis approach in order to optimize a multiconfigurational valence bond wave function. Based on selected model systems, we show how this leads to an explainable performance. We demonstrate that the developed methodology outperforms related methods in terms of the size of the effective basis, as well as individual quantum resources for the involved circuits.
+

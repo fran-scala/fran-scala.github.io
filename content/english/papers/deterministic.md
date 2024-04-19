@@ -9,8 +9,9 @@ author: ["Francesco Scala", "Davide Nigro", "Dario Gerace"]
 tags: ["nonlinear photonics", "deterministic quantum computation", 
         "exction-polaritons"]
 draft: false
-summary: "[arXiv:2306.05072](https://arxiv.org/abs/2306.05072)"
+summary: "[Commun Phys 7, 118 (2024)](https://doi.org/10.1038/s42005-024-01610-z)"
 ---
+[Commun Phys 7, 118 (2024)](https://doi.org/10.1038/s42005-024-01610-z)
 [arXiv:2306.05072](https://arxiv.org/abs/2306.05072)
 
 **Authors:** Francesco Scala, Davide Nigro, Dario Gerace
