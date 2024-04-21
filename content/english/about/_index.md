@@ -8,7 +8,7 @@ draft: false
 
 My name is Francesco Scala, I'm 26 y.o. and I'm a PhD student in Quantum Machine Learning at Università degli Studi di Pavia, Italy.
 
-<div class="warning" style=' border: solid #0096FF 1px; border-radius: 8px; padding:0.7em;'>
+<div class="warning" style=' border: solid #0096FF 1px; border-radius: 8px; padding:0.7em; width: 300px;'>
 
 [<i class="fa-solid fa-download"></i>](./documents/resume.pdf) [Download full CV](./documents/resume.pdf) 
 
