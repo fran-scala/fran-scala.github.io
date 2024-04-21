@@ -17,7 +17,7 @@ features:
     content: "Hi! My name is Francesco Scala, on this page you can learn more about me. I'm a PhD student in <b>Quantum Machine Learning</b> at Università degli Studi di Pavia, Italy. I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling. 
     <br><br>
     <div class='warning' style=' border: solid #0096FF 1px; border-radius: 8px; padding:0.7em;'>
-    If you want to reach out feel free to contact me at: <br><i class='fa-solid fa-envelope'></i> <a href="mailto:francesco.scala01@ateneopv.it"><strong>francesco.scala01@ateneopv.it</strong></a>
+    If you want to reach out feel free to contact me at: <br><i class='fa-solid fa-envelope'></i> <strong>francesco.scala01@ateneopv.it</strong>
     </div>
     <br>
     <div class='warning' style=' border: solid #0096FF 1px; border-radius: 8px; padding:0.7em;'>
