@@ -10,7 +10,7 @@ My name is Francesco Scala, I'm 26 y.o. and I'm a PhD student in Quantum Machine
 
 <div class="warning" style=' border: solid #0096FF 1px; border-radius: 8px; padding:0.7em;'>
 
-[<i class="fa-solid fa-download"></i>](./documents/resume.pdf) [Download full CV](./documents/resume.pdf)  (Last rev. 10th March 2024)
+[<i class="fa-solid fa-download"></i>](./documents/resume.pdf) [Download full CV](./documents/resume.pdf) 
 
 </div>
 
