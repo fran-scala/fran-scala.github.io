@@ -17,7 +17,7 @@ My name is Francesco Scala, I'm 26 y.o. and I'm a PhD student in Quantum Machine
 ## Experience
 
 ### Full-Time
-- Mar ‐ May 2024 | _Reserach intern_ @ [IBM Research Europe](https://research.ibm.com/labs/zurich), Zurich 🇨🇭 
+- Mar ‐ May 2024 | _Visiting PhD_ @ [IBM Research Europe](https://research.ibm.com/labs/zurich), Zurich 🇨🇭 
 
 - 2021-present | _PhD in Quantum Machine Learning_ @ University of Pavia, Pavia 🇮🇹
 
