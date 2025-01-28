@@ -2,7 +2,7 @@
 title: "Brief Curriculum Vitae"
 meta_title: "CV"
 description: "this is meta description"
-image: "/images/fs/people/francescoscala.jpg"
+image: "/images/fs/people/fran_scala_propic.jpg"
 draft: false
 ---
 
