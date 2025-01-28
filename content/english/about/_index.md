@@ -6,7 +6,7 @@ image: "/images/fs/people/francescoscala.jpg"
 draft: false
 ---
 
-My name is Francesco Scala, I'm 26 y.o. and I'm a PhD student in Quantum Machine Learning at Università degli Studi di Pavia, Italy.
+My name is Francesco Scala, I'm 28 y.o. and I'm a Postdoc in Quantum Machine Learning at University of Basel, Switzerland.
 
 <div class="warning" style=' border: solid #0096FF 1px; border-radius: 8px; padding:0.7em; width: 300px;'>
 
@@ -17,9 +17,11 @@ My name is Francesco Scala, I'm 26 y.o. and I'm a PhD student in Quantum Machine
 ## Experience
 
 ### Full-Time
+- 2025 - present | _Postdoc_ in the [OMLS group](https://sites.google.com/view/omls-group/main?authuser=0) @ University of Basel, Basel 🇨🇭 
+
 - Mar ‐ May 2024 | _Visiting PhD_ @ [IBM Research Europe](https://research.ibm.com/labs/zurich), Zurich 🇨🇭 
 
-- 2021-present | _PhD in Quantum Machine Learning_ @ University of Pavia, Pavia 🇮🇹
+- 2021-2024 | _PhD in Quantum Machine Learning_ @ University of Pavia, Pavia 🇮🇹
 
 ### Part-Time
 

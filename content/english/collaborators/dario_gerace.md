@@ -25,4 +25,4 @@ Dario Gerace is full professor at Università degli Studi di Pavia.
 
 His research interests comprise: theoretical condensed matter physics, nonlinear and quantum optics, quantum thermodynamics, universal quantum simulators and quantum simulation of complex systems through quantum computing hardware. 
 
-He is my **PhD supervisor**.
+He was my **PhD supervisor**.

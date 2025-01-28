@@ -14,9 +14,9 @@
 # Features
 features:
   - title: "Francesco Scala"
-    content: "Hi! My name is Francesco Scala, on this page you can learn more about me. I'm a PhD student in <b>Quantum Machine Learning</b> at Università degli Studi di Pavia, Italy. I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling.
+    content: "Hi! My name is Francesco Scala, on this page you can learn more about me. I'm a Postdoc researching on <b>Quantum Machine Learning</b> in the <u>[OMLS group](https://sites.google.com/view/omls-group/main?authuser=0)</u> at University of Basel, Switzerland. I did my PhD at the University of Pavia, Italy. I'm an outgoing and active person. I really enjoy playing sports, gardening and traveling.
     <div class='warning' style=' border: solid #0096FF 1px; border-radius: 8px; padding:0.7em;margin:0.7em;'>
-    If you want to reach out feel free to contact me at: <br><i class='fa-solid fa-envelope'></i> <b>francesco.scala01@ateneopv.it</b>
+    If you want to reach out feel free to contact me at: <br><i class='fa-solid fa-envelope'></i> <b>francesco.scala@unibas.ch</b>
     </div>
     <div class='warning' style=' border: solid #0096FF 1px; border-radius: 8px; padding:0.7em;margin:0.7em;'>
     If you are interested in my work and academic background <u>[download my CV <i class='fa-solid fa-download'></i>](./about/documents/resume.pdf)</u> or click on the button here below.

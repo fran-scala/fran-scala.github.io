@@ -23,4 +23,4 @@ summary: PhD Student <br> Università degli Studi di Pavia
 
 Francesco Ghisoni is a PhD candidate in Quantum Machine Learning @ University of Pavia. His research interests comprise: Quantum Computing and Quantum Machine Learning Algorithms. 
 
-He is one of my office mates with which I also took part in some quantum hackathons.
+He was one of my office mates at University of Pavia with which I also took part in some quantum hackathons.
